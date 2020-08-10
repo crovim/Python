@@ -1,2 +1,2 @@
 # Python
-Alguns projetos que desenvolvi durante meus estudos da linguagem Python
+Some projects I developed during my studies of the Python language
